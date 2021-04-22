@@ -1,0 +1,65 @@
+  body{padding:0px;overflow-x: hidden}
+  #header{height:10vh;width:100%;float: left; padding: 10px; z-index:10;}
+  #logo {width:4%;float: left;margin-right:10px;display: inline-block;}
+  #logo {width:4%;float: left;margin-right:10px;display: inline-block;}
+  #left {float: right; padding:10px;display: inline-block; position: absolute; right:5px;top:-5px;}
+  #link {float: right; padding:10px;display: inline-block; position: absolute; right:5px; top:5px;}
+  #sign {float: right;display: inline-block;background-color:#EDA600;color:white;}
+  #sign:hover{background-color:#FFD062;}
+  #link span{margin-right:20px;margin-top:40px;font-size: 3vh; color: white; }
+  #name{font-size: 5vh; color: white;}
+  .heading {color: white;font-size: 5vh;z-index:10; margin-bottom:20px;}
+  #heading1 {color: black;font-size: 5vh;margin-left:auto; margin-right:auto;}
+  .about {color:white;font-size:3vh;z-index:10;width: 70vw; margin-left:15%;}
+  .about button{background-color:#EDA600;color:white;margin-left:20px;}
+  button:hover{background-color:#FFD062;}
+  
+  #cards {margin-left:auto;margin-right:auto;width:95%;margin-left:10%;padding-bottom:100px;}
+  .cards2 {margin-left:auto;margin-right:auto;width:90%;margin-left:10%;padding-bottom:100px;}
+  .big_text{font-family: 'Impact', regular; font-size:17vh; color:#EDA600}
+  .card-footer{background-color:#EDA600;width:100%;}
+  .card-footer:hover{background-color:#FFD062;}
+  a{ text-decoration:none;color:white;font-weight:bold;font-size:4vh;margin-left:25%;}
+  .div_for_cards{margin-left:20%;}
+  #stripe {height:10vh; background-color:#EDA600;font-size: 6vh; color: white;height:15vh;margin-top:5%;width:100vw;margin-left:-32%;padding-top:2%;}
+  a:hover{text-decoration:none;color:white;font-weight:bold;font-size:4vh;margin-left:25%;}
+  .card-title{text-align="center";font-size: 4vh; color:black}
+  #specialists {background-image: url(meeting.jpg); background-size: 100% 50%;background-repeat: no-repeat; padding: 5%;display:block;width:100%;}
+  #button_spec{margin-left:30%;}
+  #myVideo {
+position:relative;
+right:0px;
+bottom:0px;
+min-width:100%;
+min-height:100%;
+background-image:url(bg.jpg);}
+	.content{margin-top:-110vh;margin-bottom:60vh;}
+	div button{font-family: Verdana;}
+	h4{color:white;opacity: 90%;font-weight: lighter; font-size: 3vh;}
+#stripe2{background-image:url(background2.jpg);width:100vw;height:40vh;margin-left:-32%;background-repeat:no-repeat;background-size:cover;}
+#stripe2 button:hover{background-color:#FFD062;}
+#stripe2 button{background-color:#EDA600;width:15vw; color:white;padding:2vh;margin-bottom:5vh;margin-left:4vw;}
+#stripe2 .row{margin-left:20%;}
+#contact {height: 40vh;width: 100vw; margin-left:-32%}
+#email {margin:10%; height:80%;padding:2%; position:relative;}
+#footer  {height:10vh; background-color:#EDA600;width: 100vw; margin-left:-32%;}
+.content1 { height:70vh;}
+.content2 { height:80vh; padding-left:12.5vw;}
+.btn {font-size: 2vh;}
+#div_for_img{border-radius: 50%;height: 100%; width:100%;}
+.card {margin:20px;padding:0px;}
+.card-body{width:100%}
+.card-footer{width:100%}
+#div_for_deals {height:150vh;margin-left:-32%; margin-top:-50%;}
+.deals{ width:75vw; float:left;margin-left:15%;height:30vh;margin-top:5%;}
+.deals div {display:inline-block}
+.deals img {display:inline-block;margin-top:-26vh;}
+.deals button {color:white;background-color:#EDA600;font-size:3vh}
+li h4 {display:inline-block} 
+li img{display:inline-block} 
+ul{display:inline-block; margin-right:5vw;}
+ul h4{color:black}
+#ul1 {position:absolute; top:0px;left:0px;}
+#ul2 {position:absolute; top:0px;left:30%;}
+#ul3 {position:absolute; top:0px;right:30%;}
+#ul4 {position:absolute; top:0px;right:0px;}
